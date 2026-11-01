@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "updated": "2026-11-02",
+  "exams": [
+    {
+      "id": "ags-2026",
+      "name": "2026 MEB-AGS",
+      "date": "2026-07-26",
+      "time": "10:15",
+      "durationMin": 110
+    }
+  ]
+}
